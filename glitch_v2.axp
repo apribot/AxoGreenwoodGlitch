@@ -11,6 +11,7 @@
       </params>
       <attribs/>
    </obj>
+   <comment type="patch/comment" x="546" y="56" text="0-5... 5 is way fast"/>
    <obj type="logic/counter" uuid="7a141ba82230e54e5f5cd12da5dbe5a74ba854a5" name="counter_1" x="168" y="98">
       <params>
          <int32 name="maximum" value="16"/>
@@ -31,7 +32,7 @@
    </obj>
    <obj type="rand/uniform i" uuid="9b1f945f346af0165ed99b8e19136cdbf744e594" name="uniform_1" x="546" y="98">
       <params>
-         <int32 name="max" value="5"/>
+         <int32 name="max" value="4"/>
       </params>
       <attribs/>
    </obj>
